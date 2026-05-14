@@ -15,8 +15,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=podarok&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="podarok stats" />
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=podarok" alt="podarok streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podarok&layout=compact&langs_count=10" alt="podarok top langs" />
 </p>
