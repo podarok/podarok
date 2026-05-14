@@ -2,16 +2,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=podarok" alt="podarok" /></a> </p>
 
-<!--
-**podarok/podarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working on [@ITCare-Company](https://www.itcare.company), [@EnergyCitizen](https://www.energycitizen.green), Canvas content platform, Drupal 11 / Drupal CMS migrations
+- 🤖 Building AI agents, [MCP servers](https://modelcontextprotocol.io) for Drupal & research, Claude Code skills/plugins, multi-agent orchestration
+- ⚡ Recommended [Victron Software Integrator](https://www.victronenergy.com/) — hacking Venus OS energy storage: [dbus-victron-virtual](https://github.com/podarok/dbus-victron-virtual), Modbus TCP bridges, BLE telemetry, MQTT drivers
+- 🦀 Writing Rust tooling: [gcalpod](https://github.com/podarok/gcalpod) Google Calendar CLI
+- 🌱 Currently learning local LLM fine-tuning, Ukrainian-language AI, embedded firmware (STM32 / Venus OS)
+- 👯 Collaborating on [Drupal](https://dgo.to/@podarok), [YMCA Website Services](https://github.com/YCloudYUSA/yusaopeny), [#solar systems](https://www.energycitizen.green)
+- 💬 Ask me about PHP/Drupal, [energy backup & alternative solar](https://www.energycitizen.green), [YMCA Website Services](https://github.com/YCloudYUSA/yusaopeny), IoT, DevOps, Claude Code, mentorship
+- 📫 Reach: https://www.itcare.company/message-ceo · [LinkedIn](https://www.linkedin.com/in/podarok) · [psychotherapy](https://www.podanenko.com)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun: aquaponics automation, certified gestalt psychotherapist
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on [@ITCare-Company](https://github.com/ITCare-Company) and [@EnergyCitizen](https://github.com/EnergyCitizen)...
-- 🌱 I’m currently learning Business Scaling, Machine Learning, Artificial Intelligence...
-- 👯 I’m looking to collaborate on [Drupal](https://dgo.to/@podarok) or [#solar systems](https://www.energycitizen.green), ...
-- 🤔 I’m looking for help for growing [Ukrainian IT Community](http://community.itcare.company)...
-- 💬 Ask me about PHP, [Energy backup and alternative solar](https://www.energycitizen.green), [Drupal](https://dgo.to/@podarok), [Open Y](https://openy.org), IOT, [DevOps](http://cibox.tools), Mentorship...
-- 📫 How to reach me: https://itcare.company/message-ceo ...
-- 😄 Pronouns: he/him/his...
-- ⚡ Fun facts: I'm trying to accomplish aquaponics automation... Also I'm certified psychotherapist, gestalt therapy.
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=podarok&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="podarok stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=podarok" alt="podarok streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podarok&layout=compact&langs_count=10" alt="podarok top langs" />
+</p>
