@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=podarok" alt="podarok" /></a> </p>
 
-- 🔭 Working on [@ITCare-Company](https://www.itcare.company), [@EnergyCitizen](https://www.energycitizen.green), Canvas content platform, Drupal 11 / Drupal CMS migrations
+- 🔭 Working on [@ITCare-Company](https://www.itcare.company), [@EnergyCitizen](https://www.energycitizen.green), Canvas content platform, Drupal / Drupal CMS / Wordpress migrations
 - 🤖 Building AI agents, [MCP servers](https://modelcontextprotocol.io) for Drupal & research, Claude Code skills/plugins, multi-agent orchestration
 - ⚡ Recommended [Victron Software Integrator](https://www.victronenergy.com/) — hacking Venus OS energy storage: [dbus-victron-virtual](https://github.com/podarok/dbus-victron-virtual), Modbus TCP bridges, BLE telemetry, MQTT drivers
 - 🦀 Writing Rust tooling: [gcalpod](https://github.com/podarok/gcalpod) Google Calendar CLI
